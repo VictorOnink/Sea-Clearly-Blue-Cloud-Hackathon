@@ -1,0 +1,3 @@
+# ignore all these data files so they don't clog up all the storage
+*pkl
+*nc
