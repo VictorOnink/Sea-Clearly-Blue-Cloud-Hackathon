@@ -1,5 +1,5 @@
 # Blue Cloud Hackathon 2022 - Sea Clearly
-This repository contains code created by the team The Particle Trackers for the [Blue Cloud Hackathon 2022](https://hackathon.blue-cloud.org/).
+This repository contains code created by the team The Particle Trackers for the [Blue Cloud Hackathon 2022](https://hackathon.blue-cloud.org/), which won both the first place award (€25000 for further development) and the popular vote Blue Skies award.
 
 **Team Name**: The Particle Trackers
 
